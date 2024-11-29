@@ -1,0 +1,7 @@
+/Users/mac/Documents/project/frontend/concordium-dapp-examples/trackAndTrace/test-scripts/target/debug/deps/libconcordium_contracts_common_derive-051b92b0f06fabf5.dylib: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/attribute.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/derive.rs
+
+/Users/mac/Documents/project/frontend/concordium-dapp-examples/trackAndTrace/test-scripts/target/debug/deps/concordium_contracts_common_derive-051b92b0f06fabf5.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/attribute.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/derive.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/attribute.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/derive.rs:

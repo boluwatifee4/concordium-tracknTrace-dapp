@@ -1,0 +1,12 @@
+/Users/mac/Documents/project/frontend/concordium-dapp-examples/trackAndTrace/smart-contract/target/debug/deps/libsemver-199d0c72c49774d6.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/backport.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/display.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/error.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/eval.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/identifier.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/impls.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/parse.rs
+
+/Users/mac/Documents/project/frontend/concordium-dapp-examples/trackAndTrace/smart-contract/target/debug/deps/semver-199d0c72c49774d6.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/backport.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/display.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/error.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/eval.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/identifier.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/impls.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/parse.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/backport.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/display.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/error.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/eval.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/identifier.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/impls.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.22/src/parse.rs:

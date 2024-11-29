@@ -1,0 +1,11 @@
+/Users/mac/Documents/project/frontend/concordium-dapp-examples/trackAndTrace/indexer/target/debug/deps/libed25519_dalek-0b9953cdedf0fa6d.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/constants.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/errors.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/signature.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/signing.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/verifying.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/hazmat.rs
+
+/Users/mac/Documents/project/frontend/concordium-dapp-examples/trackAndTrace/indexer/target/debug/deps/ed25519_dalek-0b9953cdedf0fa6d.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/constants.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/errors.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/signature.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/signing.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/verifying.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/hazmat.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/constants.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/errors.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/signature.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/signing.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/verifying.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ed25519-dalek-2.1.0/src/hazmat.rs:
