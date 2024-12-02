@@ -28,7 +28,7 @@ export const WalletProvider: React.FC<WalletConnectionProps> = ({
 }) => {
     const { connection, setConnection, account = undefined } = useConnection(connectedAccounts, genesisHashes);
     const { connect } = useConnect(activeConnector, setConnection);
-    const [walletBalance, setWalletBalance] = useState<number | undefined>(undefined);
+    const [walletBalance, setWalletBalance] = useState<number | undefined>(0);
 
     useEffect(() => {
         setActiveConnectorType(constants.BROWSER_WALLET);

@@ -25,12 +25,6 @@ export const Navbar = () => {
                 >
                     Contract Info
                 </a>
-                <br />
-                {
-                    account && walletBalance !== undefined
-                        ? `Balance: ${walletBalance} Ccd`
-                        : ''
-                }
             </div>
             <Link className="secondary" to="/explorer">
                 Explorer
@@ -47,14 +41,18 @@ export const Navbar = () => {
             <Link className="secondary" to="/addTransitionRule">
                 Admin4
             </Link>
-            <Button
-                variant="primary"
-                id="account"
-                disabled={!!account}
-                onClick={connect}
-            >
-                {account ? `${account.slice(0, 5)}...${account.slice(-5)}` : 'Connect Wallet'}
-            </Button>
+            <div>
+                <Button
+                    variant="primary"
+                    id="account"
+                    disabled={!!account}
+                    onClick={connect}
+                >
+                    {account ? `${walletBalance} Ccd | ${account.slice(0, 5)}...${account.slice(-5)}` : 'Connect Wallet'}
+                </Button>
+
+            </div>
+
         </div>
     );
 };
